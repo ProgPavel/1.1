@@ -6,7 +6,7 @@ using ConsoleApp1;
 
 //Заняття 2.1
 //Заняття 2.1
-//Заняття 2.1
+//Заняття 2.15555
 //string Hello = "Hello, World!";
 //int x = 10;
 
