@@ -45,7 +45,7 @@ bool logic ;
 
 logic = false;
 
-if (9 < 10) 
+if (9 < 102) 
 {
     logic = true;
 }
